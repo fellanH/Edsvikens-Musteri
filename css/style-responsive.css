@@ -99,6 +99,10 @@ Primary use:    MultiPurpose Template
    ============================== */
 
 @media only screen and (max-width: 1024px) {
+
+    #video-modal{
+        display: none;
+    }
     
     .hs-wrap {
         max-width: 480px;
